@@ -36,6 +36,12 @@ const loadTabs = () => {
         label: "posts",
         title: "posts",
         icon: HomeIcon
+      },
+      {
+        screen: "routing3.ContactsScreen",
+        label: "Contacts",
+        title: "Contacts",
+        icon: HomeIcon
       }
     ],
     drawer: {
